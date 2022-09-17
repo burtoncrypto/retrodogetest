@@ -1,0 +1,63 @@
+{
+  "name": "RetroDoge_137",
+  "description": "",
+  "image": "https://github.com/burtoncrypto/retrodogetest/RetroDoge_137.jpg",
+  "attributes": [
+    {
+      "trait_type": "Accesories Necklace",
+      "value": "None Accessories"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Chicago"
+    },
+    {
+      "trait_type": "Blush",
+      "value": "None Blushes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Freddy Yellow Jacket"
+    },
+    {
+      "trait_type": "Dates",
+      "value": "DEC. 02 1993"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Irritated"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Grey"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Bono"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Slater Dark Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grin"
+    },
+    {
+      "trait_type": "Necklace Type",
+      "value": "None Necklaces"
+    },
+    {
+      "trait_type": "Video Tape",
+      "value": "STOP"
+    }
+  ]
+}

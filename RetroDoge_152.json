@@ -1,0 +1,63 @@
+{
+  "name": "RetroDoge_152",
+  "description": "",
+  "image": "https://github.com/burtoncrypto/retrodogetest/RetroDoge_152.jpg",
+  "attributes": [
+    {
+      "trait_type": "Accesories Necklace",
+      "value": "GhettoBlaster"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Nevada Desert"
+    },
+    {
+      "trait_type": "Blush",
+      "value": "Teen Pimples skin"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Aerobics V Neck Top"
+    },
+    {
+      "trait_type": "Dates",
+      "value": "JUN. 23 1987"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "None Emojis"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sparkle Gold"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Panda"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Jacqueline Kennedy"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Purple Tubby Hat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tired"
+    },
+    {
+      "trait_type": "Necklace Type",
+      "value": "None Necklaces"
+    },
+    {
+      "trait_type": "Video Tape",
+      "value": "PLAY"
+    }
+  ]
+}

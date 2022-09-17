@@ -1,0 +1,63 @@
+{
+  "name": "RetroDoge_147",
+  "description": "",
+  "image": "https://github.com/burtoncrypto/retrodogetest/RetroDoge_147.jpg",
+  "attributes": [
+    {
+      "trait_type": "Accesories Necklace",
+      "value": "None Accessories"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Berlin Wall"
+    },
+    {
+      "trait_type": "Blush",
+      "value": "None Blushes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "White Tank Top"
+    },
+    {
+      "trait_type": "Dates",
+      "value": "APR. 23 1985"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "None Emojis"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Wink"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Kurt Cobain"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Rasta Black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grin"
+    },
+    {
+      "trait_type": "Necklace Type",
+      "value": "None Necklaces"
+    },
+    {
+      "trait_type": "Video Tape",
+      "value": "STOP"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "name": "RetroDoge_47",
+  "description": "",
+  "image": "https://github.com/burtoncrypto/retrodogetest/RetroDoge_47.jpg",
+  "attributes": [
+    {
+      "trait_type": "Accesories Necklace",
+      "value": "None Accessories"
+    },
+    {
+      "trait_type": "Background",
+      "value": "University Library"
+    },
+    {
+      "trait_type": "Blush",
+      "value": "Round"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "White And Blue Striped Tee-shirt"
+    },
+    {
+      "trait_type": "Dates",
+      "value": "MAR. 29 1987"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Idea"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Gold"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Leopard"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Kurt Cobain"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Drago Blond"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grin"
+    },
+    {
+      "trait_type": "Necklace Type",
+      "value": "Spike"
+    },
+    {
+      "trait_type": "Video Tape",
+      "value": "STOP"
+    }
+  ]
+}

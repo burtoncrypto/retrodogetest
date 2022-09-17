@@ -1,0 +1,63 @@
+{
+  "name": "RetroDoge_6",
+  "description": "",
+  "image": "https://github.com/burtoncrypto/retrodogetest/RetroDoge_6.jpg",
+  "attributes": [
+    {
+      "trait_type": "Accesories Necklace",
+      "value": "None Accessories"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Hotel Bathroom"
+    },
+    {
+      "trait_type": "Blush",
+      "value": "None Blushes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Sonny White Jacket Blue Teeshirt"
+    },
+    {
+      "trait_type": "Dates",
+      "value": "SEP. 18 1981"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "None Emojis"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Weirdo"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Jacqueline Kennedy"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Spiky Blond"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Burp"
+    },
+    {
+      "trait_type": "Necklace Type",
+      "value": "None Necklaces"
+    },
+    {
+      "trait_type": "Video Tape",
+      "value": "PLAY"
+    }
+  ]
+}

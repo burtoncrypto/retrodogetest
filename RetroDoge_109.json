@@ -1,0 +1,63 @@
+{
+  "name": "RetroDoge_109",
+  "description": "",
+  "image": "https://github.com/burtoncrypto/retrodogetest/RetroDoge_109.jpg",
+  "attributes": [
+    {
+      "trait_type": "Accesories Necklace",
+      "value": "None Accessories"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Arizona Landscape"
+    },
+    {
+      "trait_type": "Blush",
+      "value": "Heart"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Fitness Top"
+    },
+    {
+      "trait_type": "Dates",
+      "value": "AUG. 01 1981"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored Grey"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Malcolm X"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Long Dark Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Necklace Type",
+      "value": "None Necklaces"
+    },
+    {
+      "trait_type": "Video Tape",
+      "value": "REC"
+    }
+  ]
+}

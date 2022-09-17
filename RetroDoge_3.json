@@ -1,0 +1,63 @@
+{
+  "name": "RetroDoge_3",
+  "description": "",
+  "image": "https://github.com/burtoncrypto/retrodogetest/RetroDoge_3.jpg",
+  "attributes": [
+    {
+      "trait_type": "Accesories Necklace",
+      "value": "None Accessories"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Ganja Farm"
+    },
+    {
+      "trait_type": "Blush",
+      "value": "Cute"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Blue Jacket"
+    },
+    {
+      "trait_type": "Dates",
+      "value": "DEC 01 1988"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "None Emojis"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Grey"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Dolores Lolita Haze"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Roxane Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sleepy"
+    },
+    {
+      "trait_type": "Necklace Type",
+      "value": "None Necklaces"
+    },
+    {
+      "trait_type": "Video Tape",
+      "value": "PLAY"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "name": "RetroDoge_144",
+  "description": "",
+  "image": "https://github.com/burtoncrypto/retrodogetest/RetroDoge_144.jpg",
+  "attributes": [
+    {
+      "trait_type": "Accesories Necklace",
+      "value": "Walkman"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Death Valley"
+    },
+    {
+      "trait_type": "Blush",
+      "value": "Cute"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Blue Purple Tracksuit"
+    },
+    {
+      "trait_type": "Dates",
+      "value": "APR. 13 1986"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "None Emojis"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sparkle Gold"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Kurt Cobain"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Freedom Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pissed"
+    },
+    {
+      "trait_type": "Necklace Type",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Video Tape",
+      "value": "STOP"
+    }
+  ]
+}

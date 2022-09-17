@@ -1,0 +1,63 @@
+{
+  "name": "RetroDoge_4",
+  "description": "",
+  "image": "https://github.com/burtoncrypto/retrodogetest/RetroDoge_4.jpg",
+  "attributes": [
+    {
+      "trait_type": "Accesories Necklace",
+      "value": "None Accessories"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Subway Corridor"
+    },
+    {
+      "trait_type": "Blush",
+      "value": "Cute"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Satin Pink Blouse"
+    },
+    {
+      "trait_type": "Dates",
+      "value": "JAN. 01 1985"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Speachless"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute Light Brown"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Holly Golightly"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Purple Tubby Hat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Necklace Type",
+      "value": "None Necklaces"
+    },
+    {
+      "trait_type": "Video Tape",
+      "value": "STOP"
+    }
+  ]
+}

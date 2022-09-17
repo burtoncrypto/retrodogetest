@@ -1,0 +1,63 @@
+{
+  "name": "RetroDoge_15",
+  "description": "",
+  "image": "https://github.com/burtoncrypto/retrodogetest/RetroDoge_15.jpg",
+  "attributes": [
+    {
+      "trait_type": "Accesories Necklace",
+      "value": "Tubby Head"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Bowling Balls"
+    },
+    {
+      "trait_type": "Blush",
+      "value": "None Blushes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Baseball Shirt"
+    },
+    {
+      "trait_type": "Dates",
+      "value": "DEC. 02 1993"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Irritated"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Celestial Blue"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "None Glasses"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Bowl Blond"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grin"
+    },
+    {
+      "trait_type": "Necklace Type",
+      "value": "Leather"
+    },
+    {
+      "trait_type": "Video Tape",
+      "value": "REC"
+    }
+  ]
+}

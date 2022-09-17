@@ -1,0 +1,63 @@
+{
+  "name": "RetroDoge_170",
+  "description": "",
+  "image": "https://github.com/burtoncrypto/retrodogetest/RetroDoge_170.jpg",
+  "attributes": [
+    {
+      "trait_type": "Accesories Necklace",
+      "value": "None Accessories"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Death Valley"
+    },
+    {
+      "trait_type": "Blush",
+      "value": "None Blushes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Eleven Summer Shirt"
+    },
+    {
+      "trait_type": "Dates",
+      "value": "DEC. 26 1982"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Speachless"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored Dark Brown"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Zebra"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Hunter S Thompson"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Purple Tubby Hat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fake smile"
+    },
+    {
+      "trait_type": "Necklace Type",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Video Tape",
+      "value": "STOP"
+    }
+  ]
+}

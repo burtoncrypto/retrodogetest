@@ -1,0 +1,63 @@
+{
+  "name": "RetroDoge_43",
+  "description": "",
+  "image": "https://github.com/burtoncrypto/retrodogetest/RetroDoge_43.jpg",
+  "attributes": [
+    {
+      "trait_type": "Accesories Necklace",
+      "value": "None Accessories"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Berlin Wall"
+    },
+    {
+      "trait_type": "Blush",
+      "value": "Round"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Teddy Jacket Red"
+    },
+    {
+      "trait_type": "Dates",
+      "value": "NOV. 09 1984"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Halo"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored Gold"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Fox"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Karl Lagarfeld"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Brad Blond"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Necklace Type",
+      "value": "Rainbow"
+    },
+    {
+      "trait_type": "Video Tape",
+      "value": "PLAY"
+    }
+  ]
+}

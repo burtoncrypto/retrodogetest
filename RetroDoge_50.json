@@ -1,0 +1,63 @@
+{
+  "name": "RetroDoge_50",
+  "description": "",
+  "image": "https://github.com/burtoncrypto/retrodogetest/RetroDoge_50.jpg",
+  "attributes": [
+    {
+      "trait_type": "Accesories Necklace",
+      "value": "None Accessories"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Mall Entrance"
+    },
+    {
+      "trait_type": "Blush",
+      "value": "Cute"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Lisa Turtle Green Jacket"
+    },
+    {
+      "trait_type": "Dates",
+      "value": "APR. 12 1981"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Thunder"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "T800"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Grey"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Holly Golightly"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Messy Dark Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Necklace Type",
+      "value": "Smiley"
+    },
+    {
+      "trait_type": "Video Tape",
+      "value": "STOP"
+    }
+  ]
+}

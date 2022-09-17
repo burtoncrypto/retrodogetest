@@ -1,0 +1,63 @@
+{
+  "name": "RetroDoge_164",
+  "description": "",
+  "image": "https://github.com/burtoncrypto/retrodogetest/RetroDoge_164.jpg",
+  "attributes": [
+    {
+      "trait_type": "Accesories Necklace",
+      "value": "Sheriff Star"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Diner"
+    },
+    {
+      "trait_type": "Blush",
+      "value": "Wave"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Red Tee-shirt"
+    },
+    {
+      "trait_type": "Dates",
+      "value": "JAN. 19 1983"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Music Note"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "White Alien"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "None Glasses"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Fonzie Black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fake smile"
+    },
+    {
+      "trait_type": "Necklace Type",
+      "value": "None Necklaces"
+    },
+    {
+      "trait_type": "Video Tape",
+      "value": "STOP"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "name": "RetroDoge_135",
+  "description": "",
+  "image": "https://github.com/burtoncrypto/retrodogetest/RetroDoge_135.jpg",
+  "attributes": [
+    {
+      "trait_type": "Accesories Necklace",
+      "value": "Polaroid"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Metro Ride"
+    },
+    {
+      "trait_type": "Blush",
+      "value": "Round"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Sonny Green Jacket Beige Teeshirt"
+    },
+    {
+      "trait_type": "Dates",
+      "value": "JUL. 17 1987"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "None Emojis"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sparkle Blue"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Buddy Holly"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Pento Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Yummy"
+    },
+    {
+      "trait_type": "Necklace Type",
+      "value": "Candy"
+    },
+    {
+      "trait_type": "Video Tape",
+      "value": "FF"
+    }
+  ]
+}

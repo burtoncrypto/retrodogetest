@@ -1,0 +1,63 @@
+{
+  "name": "RetroDoge_34",
+  "description": "",
+  "image": "https://github.com/burtoncrypto/retrodogetest/RetroDoge_34.jpg",
+  "attributes": [
+    {
+      "trait_type": "Accesories Necklace",
+      "value": "None Accessories"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Bowling Alley"
+    },
+    {
+      "trait_type": "Blush",
+      "value": "Round"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Teddy Jacket Red"
+    },
+    {
+      "trait_type": "Dates",
+      "value": "DEC. 02 1993"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "None Emojis"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "White Alien"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "None Glasses"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Brad Blond"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fake smile"
+    },
+    {
+      "trait_type": "Necklace Type",
+      "value": "Velvet Red"
+    },
+    {
+      "trait_type": "Video Tape",
+      "value": "PLAY"
+    }
+  ]
+}

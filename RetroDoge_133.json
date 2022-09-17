@@ -1,0 +1,63 @@
+{
+  "name": "RetroDoge_133",
+  "description": "",
+  "image": "https://github.com/burtoncrypto/retrodogetest/RetroDoge_133.jpg",
+  "attributes": [
+    {
+      "trait_type": "Accesories Necklace",
+      "value": "Mobile Phone"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Miami Hotel"
+    },
+    {
+      "trait_type": "Blush",
+      "value": "Shouting star"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Lisa Fitness Outfit"
+    },
+    {
+      "trait_type": "Dates",
+      "value": "MAY 17 1990"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Nervous"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "White Alien"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Steve Urkel"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Square Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tired"
+    },
+    {
+      "trait_type": "Necklace Type",
+      "value": "Candy"
+    },
+    {
+      "trait_type": "Video Tape",
+      "value": "STOP"
+    }
+  ]
+}

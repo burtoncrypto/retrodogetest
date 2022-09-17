@@ -1,0 +1,63 @@
+{
+  "name": "RetroDoge_81",
+  "description": "",
+  "image": "https://github.com/burtoncrypto/retrodogetest/RetroDoge_81.jpg",
+  "attributes": [
+    {
+      "trait_type": "Accesories Necklace",
+      "value": "None Accessories"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Campus Computer Room"
+    },
+    {
+      "trait_type": "Blush",
+      "value": "Heart"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Teddy Jacket Red"
+    },
+    {
+      "trait_type": "Dates",
+      "value": "AUG. 12 1982"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Speachless"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "White Alien"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Steve McQueen"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Bowl Blond"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grin"
+    },
+    {
+      "trait_type": "Necklace Type",
+      "value": "None Necklaces"
+    },
+    {
+      "trait_type": "Video Tape",
+      "value": "PAUSE"
+    }
+  ]
+}

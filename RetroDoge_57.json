@@ -1,0 +1,63 @@
+{
+  "name": "RetroDoge_57",
+  "description": "",
+  "image": "https://github.com/burtoncrypto/retrodogetest/RetroDoge_57.jpg",
+  "attributes": [
+    {
+      "trait_type": "Accesories Necklace",
+      "value": "Tomogotchi"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Chinatown"
+    },
+    {
+      "trait_type": "Blush",
+      "value": "Embarrassed"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Red Beach Outfit"
+    },
+    {
+      "trait_type": "Dates",
+      "value": "MAY 17 1989"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "None Emojis"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "White Alien"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Malcolm X"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Messy Dark Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Necklace Type",
+      "value": "Candy"
+    },
+    {
+      "trait_type": "Video Tape",
+      "value": "STOP"
+    }
+  ]
+}

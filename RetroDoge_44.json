@@ -1,0 +1,63 @@
+{
+  "name": "RetroDoge_44",
+  "description": "",
+  "image": "https://github.com/burtoncrypto/retrodogetest/RetroDoge_44.jpg",
+  "attributes": [
+    {
+      "trait_type": "Accesories Necklace",
+      "value": "Walkman"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Arizona Landscape"
+    },
+    {
+      "trait_type": "Blush",
+      "value": "Scar"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Blue Jacket"
+    },
+    {
+      "trait_type": "Dates",
+      "value": "APR. 19 1987"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "What"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "White Alien"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Buddy Holly"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Golden Blonde With Black Strand"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Embarrassed"
+    },
+    {
+      "trait_type": "Necklace Type",
+      "value": "None Necklaces"
+    },
+    {
+      "trait_type": "Video Tape",
+      "value": "PLAY"
+    }
+  ]
+}

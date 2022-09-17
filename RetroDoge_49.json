@@ -1,0 +1,63 @@
+{
+  "name": "RetroDoge_49",
+  "description": "",
+  "image": "https://github.com/burtoncrypto/retrodogetest/RetroDoge_49.jpg",
+  "attributes": [
+    {
+      "trait_type": "Accesories Necklace",
+      "value": "None Accessories"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Bar"
+    },
+    {
+      "trait_type": "Blush",
+      "value": "Hot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "White And Blue Striped Tee-shirt"
+    },
+    {
+      "trait_type": "Dates",
+      "value": "APR. 17 1991"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored Dark Brown"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Grey"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Jacqueline Kennedy"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Alec Black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sleepy"
+    },
+    {
+      "trait_type": "Necklace Type",
+      "value": "Leather"
+    },
+    {
+      "trait_type": "Video Tape",
+      "value": "FF"
+    }
+  ]
+}

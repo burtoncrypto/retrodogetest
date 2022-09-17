@@ -1,0 +1,63 @@
+{
+  "name": "RetroDoge_82",
+  "description": "",
+  "image": "https://github.com/burtoncrypto/retrodogetest/RetroDoge_82.jpg",
+  "attributes": [
+    {
+      "trait_type": "Accesories Necklace",
+      "value": "GhettoBlaster"
+    },
+    {
+      "trait_type": "Background",
+      "value": "UCLA Campus"
+    },
+    {
+      "trait_type": "Blush",
+      "value": "None Blushes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "White And Blue Striped Tee-shirt"
+    },
+    {
+      "trait_type": "Dates",
+      "value": "FEB. 13 1990"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "What"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Thunder"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Holly Golightly"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Gym Black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Necklace Type",
+      "value": "None Necklaces"
+    },
+    {
+      "trait_type": "Video Tape",
+      "value": "STOP"
+    }
+  ]
+}

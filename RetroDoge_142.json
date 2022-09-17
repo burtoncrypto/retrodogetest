@@ -1,0 +1,63 @@
+{
+  "name": "RetroDoge_142",
+  "description": "",
+  "image": "https://github.com/burtoncrypto/retrodogetest/RetroDoge_142.jpg",
+  "attributes": [
+    {
+      "trait_type": "Accesories Necklace",
+      "value": "Polaroid"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Miami Hotel"
+    },
+    {
+      "trait_type": "Blush",
+      "value": "Hot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Black Leather Jackey"
+    },
+    {
+      "trait_type": "Dates",
+      "value": "MAR. 17 1991"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Speachless"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Purple"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Karl Lagarfeld"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Brad Blond"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Necklace Type",
+      "value": "None Necklaces"
+    },
+    {
+      "trait_type": "Video Tape",
+      "value": "PAUSE"
+    }
+  ]
+}

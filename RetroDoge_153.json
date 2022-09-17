@@ -1,0 +1,63 @@
+{
+  "name": "RetroDoge_153",
+  "description": "",
+  "image": "https://github.com/burtoncrypto/retrodogetest/RetroDoge_153.jpg",
+  "attributes": [
+    {
+      "trait_type": "Accesories Necklace",
+      "value": "Tomogotchi"
+    },
+    {
+      "trait_type": "Background",
+      "value": "University Library"
+    },
+    {
+      "trait_type": "Blush",
+      "value": "None Blushes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Peruvian Jacket"
+    },
+    {
+      "trait_type": "Dates",
+      "value": "MAR. 17 1991"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "In Love"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Weirdo"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "None Glasses"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Spiky Blond"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Joyful"
+    },
+    {
+      "trait_type": "Necklace Type",
+      "value": "None Necklaces"
+    },
+    {
+      "trait_type": "Video Tape",
+      "value": "PLAY"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "name": "RetroDoge_24",
+  "description": "",
+  "image": "https://github.com/burtoncrypto/retrodogetest/RetroDoge_24.jpg",
+  "attributes": [
+    {
+      "trait_type": "Accesories Necklace",
+      "value": "None Accessories"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Cali Blue Sky"
+    },
+    {
+      "trait_type": "Blush",
+      "value": "Cute"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Ricardo Jeans Jacket"
+    },
+    {
+      "trait_type": "Dates",
+      "value": "SEP. 13 1985"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "What"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Grey"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Karl Lagarfeld"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Brad Blond"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    },
+    {
+      "trait_type": "Necklace Type",
+      "value": "None Necklaces"
+    },
+    {
+      "trait_type": "Video Tape",
+      "value": "REC"
+    }
+  ]
+}

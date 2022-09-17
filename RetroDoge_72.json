@@ -1,0 +1,63 @@
+{
+  "name": "RetroDoge_72",
+  "description": "",
+  "image": "https://github.com/burtoncrypto/retrodogetest/RetroDoge_72.jpg",
+  "attributes": [
+    {
+      "trait_type": "Accesories Necklace",
+      "value": "Floppy Disk"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Motel In The Middle Of Nowhere"
+    },
+    {
+      "trait_type": "Blush",
+      "value": "Cute"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Teddy Jacket Red"
+    },
+    {
+      "trait_type": "Dates",
+      "value": "JAN. 21 1981"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "None Emojis"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Amazed Green"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Kurt Cobain"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Spiky Blond"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tired"
+    },
+    {
+      "trait_type": "Necklace Type",
+      "value": "Rainbow"
+    },
+    {
+      "trait_type": "Video Tape",
+      "value": "REW"
+    }
+  ]
+}

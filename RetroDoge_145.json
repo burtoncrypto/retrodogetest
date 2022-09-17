@@ -1,0 +1,63 @@
+{
+  "name": "RetroDoge_145",
+  "description": "",
+  "image": "https://github.com/burtoncrypto/retrodogetest/RetroDoge_145.jpg",
+  "attributes": [
+    {
+      "trait_type": "Accesories Necklace",
+      "value": "GhettoBlaster"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Broadway Walk"
+    },
+    {
+      "trait_type": "Blush",
+      "value": "Freckles"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Black Dots Top"
+    },
+    {
+      "trait_type": "Dates",
+      "value": "DEC. 10 1992"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Irritated"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "White Alien"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Jacqueline Kennedy"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Vivian Ginger"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Yummy"
+    },
+    {
+      "trait_type": "Necklace Type",
+      "value": "Leather"
+    },
+    {
+      "trait_type": "Video Tape",
+      "value": "PLAY"
+    }
+  ]
+}

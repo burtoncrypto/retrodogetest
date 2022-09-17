@@ -1,0 +1,63 @@
+{
+  "name": "RetroDoge_105",
+  "description": "",
+  "image": "https://github.com/burtoncrypto/retrodogetest/RetroDoge_105.jpg",
+  "attributes": [
+    {
+      "trait_type": "Accesories Necklace",
+      "value": "Skate"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Motel In The Middle Of Nowhere"
+    },
+    {
+      "trait_type": "Blush",
+      "value": "None Blushes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Vanessa Summer Outfit"
+    },
+    {
+      "trait_type": "Dates",
+      "value": "APR. 07 1993"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Band-Aid"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "White Alien"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "None Glasses"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Freedom Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Burp"
+    },
+    {
+      "trait_type": "Necklace Type",
+      "value": "None Necklaces"
+    },
+    {
+      "trait_type": "Video Tape",
+      "value": "PLAY"
+    }
+  ]
+}

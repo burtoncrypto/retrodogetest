@@ -1,0 +1,63 @@
+{
+  "name": "RetroDoge_80",
+  "description": "",
+  "image": "https://github.com/burtoncrypto/retrodogetest/RetroDoge_80.jpg",
+  "attributes": [
+    {
+      "trait_type": "Accesories Necklace",
+      "value": "Tomogotchi"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Strawberry House"
+    },
+    {
+      "trait_type": "Blush",
+      "value": "Embarrassed"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Green Pullover"
+    },
+    {
+      "trait_type": "Dates",
+      "value": "APR. 12 1981"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "In Love"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Purple"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Zebra"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Andy Walsh"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Udi Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Necklace Type",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Video Tape",
+      "value": "STOP"
+    }
+  ]
+}

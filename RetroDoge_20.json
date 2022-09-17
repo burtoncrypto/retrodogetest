@@ -1,0 +1,63 @@
+{
+  "name": "RetroDoge_20",
+  "description": "",
+  "image": "https://github.com/burtoncrypto/retrodogetest/RetroDoge_20.jpg",
+  "attributes": [
+    {
+      "trait_type": "Accesories Necklace",
+      "value": "None Accessories"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Diner"
+    },
+    {
+      "trait_type": "Blush",
+      "value": "Shouting star"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Kelly Pink Jacket"
+    },
+    {
+      "trait_type": "Dates",
+      "value": "MAY 17 1989"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "None Emojis"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored Grey"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Meg Ryan"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Purple Tubby Hat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Yummy"
+    },
+    {
+      "trait_type": "Necklace Type",
+      "value": "None Necklaces"
+    },
+    {
+      "trait_type": "Video Tape",
+      "value": "STOP"
+    }
+  ]
+}

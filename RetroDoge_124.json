@@ -1,0 +1,63 @@
+{
+  "name": "RetroDoge_124",
+  "description": "",
+  "image": "https://github.com/burtoncrypto/retrodogetest/RetroDoge_124.jpg",
+  "attributes": [
+    {
+      "trait_type": "Accesories Necklace",
+      "value": "RollerBlade"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Cali Blue Sky"
+    },
+    {
+      "trait_type": "Blush",
+      "value": "Cute"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Lisa Fitness Outfit"
+    },
+    {
+      "trait_type": "Dates",
+      "value": "MAY 11 1984"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "None Emojis"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Thunder"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "None Glasses"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Messy Dark Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Necklace Type",
+      "value": "None Necklaces"
+    },
+    {
+      "trait_type": "Video Tape",
+      "value": "EJECT"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "name": "RetroDoge_116",
+  "description": "",
+  "image": "https://github.com/burtoncrypto/retrodogetest/RetroDoge_116.jpg",
+  "attributes": [
+    {
+      "trait_type": "Accesories Necklace",
+      "value": "Tomogotchi"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Public Pool"
+    },
+    {
+      "trait_type": "Blush",
+      "value": "None Blushes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Ginna Evening Dress"
+    },
+    {
+      "trait_type": "Dates",
+      "value": "JUL. 21 1981"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Speachless"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Green"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Malcolm X"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Freedom Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Necklace Type",
+      "value": "Cuban Link Gold"
+    },
+    {
+      "trait_type": "Video Tape",
+      "value": "PLAY"
+    }
+  ]
+}

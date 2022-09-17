@@ -1,0 +1,63 @@
+{
+  "name": "RetroDoge_17",
+  "description": "",
+  "image": "https://github.com/burtoncrypto/retrodogetest/RetroDoge_17.jpg",
+  "attributes": [
+    {
+      "trait_type": "Accesories Necklace",
+      "value": "Tubby Angel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Miami Hotel"
+    },
+    {
+      "trait_type": "Blush",
+      "value": "Round"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Afrique Chic Shirt"
+    },
+    {
+      "trait_type": "Dates",
+      "value": "FEB. 07 1992"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "None Emojis"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Blue"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Fox"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Holly Golightly"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Tubby Helmet"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grin"
+    },
+    {
+      "trait_type": "Necklace Type",
+      "value": "Smiley"
+    },
+    {
+      "trait_type": "Video Tape",
+      "value": "PLAY"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "name": "RetroDoge_68",
+  "description": "",
+  "image": "https://github.com/burtoncrypto/retrodogetest/RetroDoge_68.jpg",
+  "attributes": [
+    {
+      "trait_type": "Accesories Necklace",
+      "value": "Tubby Head"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Public Pool"
+    },
+    {
+      "trait_type": "Blush",
+      "value": "None Blushes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Joey Purple Pullover"
+    },
+    {
+      "trait_type": "Dates",
+      "value": "AUG. 17 1982"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Starstruck"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Gold"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Elton John"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Lee Dark Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pissed"
+    },
+    {
+      "trait_type": "Necklace Type",
+      "value": "Smiley"
+    },
+    {
+      "trait_type": "Video Tape",
+      "value": "FF"
+    }
+  ]
+}

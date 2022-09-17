@@ -1,0 +1,63 @@
+{
+  "name": "RetroDoge_58",
+  "description": "",
+  "image": "https://github.com/burtoncrypto/retrodogetest/RetroDoge_58.jpg",
+  "attributes": [
+    {
+      "trait_type": "Accesories Necklace",
+      "value": "None Accessories"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Metro Ride"
+    },
+    {
+      "trait_type": "Blush",
+      "value": "None Blushes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Blue Jacket"
+    },
+    {
+      "trait_type": "Dates",
+      "value": "OCT. 01 1983"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "None Emojis"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Weirdo"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Panda"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Groucho Marx"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Pink Tubby Hat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tired"
+    },
+    {
+      "trait_type": "Necklace Type",
+      "value": "Spike"
+    },
+    {
+      "trait_type": "Video Tape",
+      "value": "PLAY"
+    }
+  ]
+}

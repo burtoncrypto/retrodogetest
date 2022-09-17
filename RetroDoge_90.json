@@ -1,0 +1,63 @@
+{
+  "name": "RetroDoge_90",
+  "description": "",
+  "image": "https://github.com/burtoncrypto/retrodogetest/RetroDoge_90.jpg",
+  "attributes": [
+    {
+      "trait_type": "Accesories Necklace",
+      "value": "Gummy Bear"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Strawberry House"
+    },
+    {
+      "trait_type": "Blush",
+      "value": "None Blushes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Blue Jacket"
+    },
+    {
+      "trait_type": "Dates",
+      "value": "JUN. 07 1981"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "None Emojis"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Heart"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Holly Golightly"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Curly Black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fake smile"
+    },
+    {
+      "trait_type": "Necklace Type",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Video Tape",
+      "value": "REW"
+    }
+  ]
+}

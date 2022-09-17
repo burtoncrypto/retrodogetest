@@ -1,0 +1,63 @@
+{
+  "name": "RetroDoge_70",
+  "description": "",
+  "image": "https://github.com/burtoncrypto/retrodogetest/RetroDoge_70.jpg",
+  "attributes": [
+    {
+      "trait_type": "Accesories Necklace",
+      "value": "None Accessories"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Little Italy"
+    },
+    {
+      "trait_type": "Blush",
+      "value": "Tired"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "White Blue Tracksuit"
+    },
+    {
+      "trait_type": "Dates",
+      "value": "APR. 12 1981"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "None Emojis"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Grey"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "MC Hammer"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Model Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Joyful"
+    },
+    {
+      "trait_type": "Necklace Type",
+      "value": "None Necklaces"
+    },
+    {
+      "trait_type": "Video Tape",
+      "value": "FF"
+    }
+  ]
+}

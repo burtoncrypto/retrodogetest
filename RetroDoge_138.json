@@ -1,0 +1,63 @@
+{
+  "name": "RetroDoge_138",
+  "description": "",
+  "image": "https://github.com/burtoncrypto/retrodogetest/RetroDoge_138.jpg",
+  "attributes": [
+    {
+      "trait_type": "Accesories Necklace",
+      "value": "Scooter"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Motel Corridor"
+    },
+    {
+      "trait_type": "Blush",
+      "value": "None Blushes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Black Tee-shirt"
+    },
+    {
+      "trait_type": "Dates",
+      "value": "OCT. 19 1987"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "None Emojis"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Purple"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Fox"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "None Glasses"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Flat Top Dark Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grin"
+    },
+    {
+      "trait_type": "Necklace Type",
+      "value": "None Necklaces"
+    },
+    {
+      "trait_type": "Video Tape",
+      "value": "FF"
+    }
+  ]
+}

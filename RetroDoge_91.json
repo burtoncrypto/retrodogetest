@@ -1,0 +1,63 @@
+{
+  "name": "RetroDoge_91",
+  "description": "",
+  "image": "https://github.com/burtoncrypto/retrodogetest/RetroDoge_91.jpg",
+  "attributes": [
+    {
+      "trait_type": "Accesories Necklace",
+      "value": "Flurbee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "NYC Graffiti Wall"
+    },
+    {
+      "trait_type": "Blush",
+      "value": "None Blushes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Blue Purple Tracksuit"
+    },
+    {
+      "trait_type": "Dates",
+      "value": "FEB. 09 1986"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "None Emojis"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "White Alien"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Jacqueline Kennedy"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Salad Dark Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Necklace Type",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Video Tape",
+      "value": "PLAY"
+    }
+  ]
+}

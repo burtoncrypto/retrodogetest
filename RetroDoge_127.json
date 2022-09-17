@@ -1,0 +1,63 @@
+{
+  "name": "RetroDoge_127",
+  "description": "",
+  "image": "https://github.com/burtoncrypto/retrodogetest/RetroDoge_127.jpg",
+  "attributes": [
+    {
+      "trait_type": "Accesories Necklace",
+      "value": "Polaroid"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Statue Of Liberty"
+    },
+    {
+      "trait_type": "Blush",
+      "value": "Heart"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Lisa McDowell Grey Puffa Jacket"
+    },
+    {
+      "trait_type": "Dates",
+      "value": "NOV. 21 1980"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Sleepy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "White Alien"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Daryl DMC McDaniels"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Messy Dark Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Joyful"
+    },
+    {
+      "trait_type": "Necklace Type",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Video Tape",
+      "value": "FF"
+    }
+  ]
+}

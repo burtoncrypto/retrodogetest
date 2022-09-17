@@ -1,0 +1,63 @@
+{
+  "name": "RetroDoge_155",
+  "description": "",
+  "image": "https://github.com/burtoncrypto/retrodogetest/RetroDoge_155.jpg",
+  "attributes": [
+    {
+      "trait_type": "Accesories Necklace",
+      "value": "Walkman"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Motel Corridor"
+    },
+    {
+      "trait_type": "Blush",
+      "value": "Cute"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Eleven Summer Shirt"
+    },
+    {
+      "trait_type": "Dates",
+      "value": "JUN. 23 1987"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "None Emojis"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "White Alien"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Malcolm X"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Freedom Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tired"
+    },
+    {
+      "trait_type": "Necklace Type",
+      "value": "None Necklaces"
+    },
+    {
+      "trait_type": "Video Tape",
+      "value": "PLAY"
+    }
+  ]
+}

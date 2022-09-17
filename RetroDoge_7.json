@@ -1,0 +1,63 @@
+{
+  "name": "RetroDoge_7",
+  "description": "",
+  "image": "https://github.com/burtoncrypto/retrodogetest/RetroDoge_7.jpg",
+  "attributes": [
+    {
+      "trait_type": "Accesories Necklace",
+      "value": "Tubby Head"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Chinatown"
+    },
+    {
+      "trait_type": "Blush",
+      "value": "In love"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Black Tee-shirt"
+    },
+    {
+      "trait_type": "Dates",
+      "value": "APR. 12 1981"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Loading"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Heart"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Mignon"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Lee Dark Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tired"
+    },
+    {
+      "trait_type": "Necklace Type",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Video Tape",
+      "value": "STOP"
+    }
+  ]
+}

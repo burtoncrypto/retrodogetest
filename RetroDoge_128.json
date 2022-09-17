@@ -1,0 +1,63 @@
+{
+  "name": "RetroDoge_128",
+  "description": "",
+  "image": "https://github.com/burtoncrypto/retrodogetest/RetroDoge_128.jpg",
+  "attributes": [
+    {
+      "trait_type": "Accesories Necklace",
+      "value": "Tubby Doll"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Little Italy"
+    },
+    {
+      "trait_type": "Blush",
+      "value": "Shouting star"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Vivian Ward Red Dress"
+    },
+    {
+      "trait_type": "Dates",
+      "value": "JUL. 01 1991"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "None Emojis"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "White Alien"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Steve McQueen"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Long Dark Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Yummy"
+    },
+    {
+      "trait_type": "Necklace Type",
+      "value": "Smiley"
+    },
+    {
+      "trait_type": "Video Tape",
+      "value": "PLAY"
+    }
+  ]
+}

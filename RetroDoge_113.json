@@ -1,0 +1,63 @@
+{
+  "name": "RetroDoge_113",
+  "description": "",
+  "image": "https://github.com/burtoncrypto/retrodogetest/RetroDoge_113.jpg",
+  "attributes": [
+    {
+      "trait_type": "Accesories Necklace",
+      "value": "Skate"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Metro Ride"
+    },
+    {
+      "trait_type": "Blush",
+      "value": "None Blushes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Peggy Leopard Top"
+    },
+    {
+      "trait_type": "Dates",
+      "value": "NOV. 02 1988"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Starstruck"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Gold"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "None Glasses"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Messy Dark Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Yummy"
+    },
+    {
+      "trait_type": "Necklace Type",
+      "value": "None Necklaces"
+    },
+    {
+      "trait_type": "Video Tape",
+      "value": "PLAY"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "name": "RetroDoge_39",
+  "description": "",
+  "image": "https://github.com/burtoncrypto/retrodogetest/RetroDoge_39.jpg",
+  "attributes": [
+    {
+      "trait_type": "Accesories Necklace",
+      "value": "Squid Doll"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Prom Night"
+    },
+    {
+      "trait_type": "Blush",
+      "value": "None Blushes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Black Tee-shirt"
+    },
+    {
+      "trait_type": "Dates",
+      "value": "MAR. 01 1989"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "None Emojis"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute Light Brown"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Bono"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Afro Black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Necklace Type",
+      "value": "None Necklaces"
+    },
+    {
+      "trait_type": "Video Tape",
+      "value": "STOP"
+    }
+  ]
+}

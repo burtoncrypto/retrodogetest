@@ -1,0 +1,63 @@
+{
+  "name": "RetroDoge_111",
+  "description": "",
+  "image": "https://github.com/burtoncrypto/retrodogetest/RetroDoge_111.jpg",
+  "attributes": [
+    {
+      "trait_type": "Accesories Necklace",
+      "value": "Sheriff Star"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Football Field"
+    },
+    {
+      "trait_type": "Blush",
+      "value": "Heart"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Vanessa Summer Outfit"
+    },
+    {
+      "trait_type": "Dates",
+      "value": "SEP. 13 1985"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "None Emojis"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Blue"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Giraffe"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Steve McQueen"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Marylin Blonde"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grin"
+    },
+    {
+      "trait_type": "Necklace Type",
+      "value": "None Necklaces"
+    },
+    {
+      "trait_type": "Video Tape",
+      "value": "STOP"
+    }
+  ]
+}

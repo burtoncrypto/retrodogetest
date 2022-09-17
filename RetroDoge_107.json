@@ -1,0 +1,63 @@
+{
+  "name": "RetroDoge_107",
+  "description": "",
+  "image": "https://github.com/burtoncrypto/retrodogetest/RetroDoge_107.jpg",
+  "attributes": [
+    {
+      "trait_type": "Accesories Necklace",
+      "value": "RollerBlade"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Hotel Corridor"
+    },
+    {
+      "trait_type": "Blush",
+      "value": "Heart"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Blue Purple Tracksuit"
+    },
+    {
+      "trait_type": "Dates",
+      "value": "AUG. 17 1982"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Huh"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "White Alien"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Steve McQueen"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Freedom Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tired"
+    },
+    {
+      "trait_type": "Necklace Type",
+      "value": "None Necklaces"
+    },
+    {
+      "trait_type": "Video Tape",
+      "value": "PLAY"
+    }
+  ]
+}

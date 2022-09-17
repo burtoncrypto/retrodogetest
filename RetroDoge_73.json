@@ -1,0 +1,63 @@
+{
+  "name": "RetroDoge_73",
+  "description": "",
+  "image": "https://github.com/burtoncrypto/retrodogetest/RetroDoge_73.jpg",
+  "attributes": [
+    {
+      "trait_type": "Accesories Necklace",
+      "value": "Tubby Head"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Diner"
+    },
+    {
+      "trait_type": "Blush",
+      "value": "Cute"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Hellfire Tee-shirt"
+    },
+    {
+      "trait_type": "Dates",
+      "value": "JUN. 22 1986"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "In Love"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "White Alien"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Malcolm X"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Headband Black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Joyful"
+    },
+    {
+      "trait_type": "Necklace Type",
+      "value": "None Necklaces"
+    },
+    {
+      "trait_type": "Video Tape",
+      "value": "REW"
+    }
+  ]
+}

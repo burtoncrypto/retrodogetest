@@ -1,0 +1,63 @@
+{
+  "name": "RetroDoge_23",
+  "description": "",
+  "image": "https://github.com/burtoncrypto/retrodogetest/RetroDoge_23.jpg",
+  "attributes": [
+    {
+      "trait_type": "Accesories Necklace",
+      "value": "Mobile Phone"
+    },
+    {
+      "trait_type": "Background",
+      "value": "UCLA Campus"
+    },
+    {
+      "trait_type": "Blush",
+      "value": "Pimple"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Vanessa Summer Outfit"
+    },
+    {
+      "trait_type": "Dates",
+      "value": "FEB. 13 1984"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "None Emojis"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Mignon"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Yellow Tubby Hat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Necklace Type",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Video Tape",
+      "value": "PLAY"
+    }
+  ]
+}

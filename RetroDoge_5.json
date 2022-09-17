@@ -1,0 +1,63 @@
+{
+  "name": "RetroDoge_5",
+  "description": "",
+  "image": "https://github.com/burtoncrypto/retrodogetest/RetroDoge_5.jpg",
+  "attributes": [
+    {
+      "trait_type": "Accesories Necklace",
+      "value": "RollerBlade"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Cali Blue Sky"
+    },
+    {
+      "trait_type": "Blush",
+      "value": "None Blushes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Lisa McDowell Grey Puffa Jacket"
+    },
+    {
+      "trait_type": "Dates",
+      "value": "420. 69"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "None Emojis"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Wink"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Jacqueline Kennedy"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Long Dark Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Necklace Type",
+      "value": "Glit"
+    },
+    {
+      "trait_type": "Video Tape",
+      "value": "STOP"
+    }
+  ]
+}

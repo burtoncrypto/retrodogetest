@@ -1,0 +1,63 @@
+{
+  "name": "RetroDoge_14",
+  "description": "",
+  "image": "https://github.com/burtoncrypto/retrodogetest/RetroDoge_14.jpg",
+  "attributes": [
+    {
+      "trait_type": "Accesories Necklace",
+      "value": "Flurbee"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Little Italy"
+    },
+    {
+      "trait_type": "Blush",
+      "value": "Shy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Afrique Chic Shirt"
+    },
+    {
+      "trait_type": "Dates",
+      "value": "JAN. 21 1981"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Loading"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Heart"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Fox"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Groucho Marx"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Brad Blond"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    },
+    {
+      "trait_type": "Necklace Type",
+      "value": "None Necklaces"
+    },
+    {
+      "trait_type": "Video Tape",
+      "value": "PLAY"
+    }
+  ]
+}

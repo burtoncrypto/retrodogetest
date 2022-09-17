@@ -1,0 +1,63 @@
+{
+  "name": "RetroDoge_130",
+  "description": "",
+  "image": "https://github.com/burtoncrypto/retrodogetest/RetroDoge_130.jpg",
+  "attributes": [
+    {
+      "trait_type": "Accesories Necklace",
+      "value": "Skate"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Motel Corridor"
+    },
+    {
+      "trait_type": "Blush",
+      "value": "Heart"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Satin Pink Blouse"
+    },
+    {
+      "trait_type": "Dates",
+      "value": "FEB. 13 1984"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "None Emojis"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "White Alien"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Mignon"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Square Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grin"
+    },
+    {
+      "trait_type": "Necklace Type",
+      "value": "None Necklaces"
+    },
+    {
+      "trait_type": "Video Tape",
+      "value": "REW"
+    }
+  ]
+}

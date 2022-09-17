@@ -1,0 +1,63 @@
+{
+  "name": "RetroDoge_106",
+  "description": "",
+  "image": "https://github.com/burtoncrypto/retrodogetest/RetroDoge_106.jpg",
+  "attributes": [
+    {
+      "trait_type": "Accesories Necklace",
+      "value": "Walkman"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Miami Pool Villa"
+    },
+    {
+      "trait_type": "Blush",
+      "value": "None Blushes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Aerobics V Neck Top"
+    },
+    {
+      "trait_type": "Dates",
+      "value": "JUN. 13 1983"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "None Emojis"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "White Alien"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Andy Warhol"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Pippi Longstocking Ginger"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Joyful"
+    },
+    {
+      "trait_type": "Necklace Type",
+      "value": "None Necklaces"
+    },
+    {
+      "trait_type": "Video Tape",
+      "value": "PLAY"
+    }
+  ]
+}

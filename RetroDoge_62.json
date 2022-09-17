@@ -1,0 +1,63 @@
+{
+  "name": "RetroDoge_62",
+  "description": "",
+  "image": "https://github.com/burtoncrypto/retrodogetest/RetroDoge_62.jpg",
+  "attributes": [
+    {
+      "trait_type": "Accesories Necklace",
+      "value": "None Accessories"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Arizona Landscape"
+    },
+    {
+      "trait_type": "Blush",
+      "value": "Round"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Samuel White Pullover"
+    },
+    {
+      "trait_type": "Dates",
+      "value": "JAN. 01 1985"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "Loading"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored Gold"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Buddy Holly"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Andre Blond"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bark"
+    },
+    {
+      "trait_type": "Necklace Type",
+      "value": "None Necklaces"
+    },
+    {
+      "trait_type": "Video Tape",
+      "value": "STOP"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "name": "RetroDoge_35",
+  "description": "",
+  "image": "https://github.com/burtoncrypto/retrodogetest/RetroDoge_35.jpg",
+  "attributes": [
+    {
+      "trait_type": "Accesories Necklace",
+      "value": "Walkman"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Miami Pool Villa"
+    },
+    {
+      "trait_type": "Blush",
+      "value": "Shouting star"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Teddy Jacket Red"
+    },
+    {
+      "trait_type": "Dates",
+      "value": "FEB. 09 1986"
+    },
+    {
+      "trait_type": "Emotions",
+      "value": "None Emojis"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "White Alien"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Daryl DMC McDaniels"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Tubby Helmet"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Necklace Type",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Video Tape",
+      "value": "PLAY"
+    }
+  ]
+}
